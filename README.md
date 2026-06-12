@@ -1,3 +1,4 @@
+
 # Among Us (clone)
 An unofficial clone of the popular multiplayer game 'Among Us', recreated in Python using various supported libraries. Support for upto 5 (or more?) players via LAN. Assets ripped from the from the game.
 
@@ -117,3 +118,7 @@ An unofficial clone of the popular multiplayer game 'Among Us', recreated in Pyt
 * [Albert-91](https://github.com/Albert-91) for their [project](https://github.com/Albert-91/zombie-in-clab), used as a reference.
 * [PlainSight](https://github.com/PlainSight) for their [project](https://github.com/PlainSight/pygameblog), used as the base for multiplayer functionality.
 * [TomPrograms](https://github.com/TomPrograms) for their [project](https://github.com/TomPrograms/Python-Voice-Chat), used as the base for voice chat functionality.
+
+# AI-Among-Us-game
+AI-powered Among Us-style game using Phi LLM, where multi-agent players reason, communicate, and identify the impostor.
+ 
