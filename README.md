@@ -8,10 +8,10 @@ AI-powered Among Us-style game using Phi LLM, where multi-agent players reason, 
 - Impostor detection logic
 
 ## My Contribution
-Worked on integrating AI agents into the game
-Helped design agent decision-making logic
-Contributed to communication and reasoning system
-Assisted in overall project development
+- Worked on integrating AI agents into the game
+- Helped design agent decision-making logic
+- Contributed to communication and reasoning system
+- Assisted in overall project development
 
 ## How it works
 - Agents observe game state
