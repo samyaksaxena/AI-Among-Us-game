@@ -2,19 +2,25 @@
 
 AI-powered Among Us-style game using Phi LLM, where multi-agent players reason, communicate, and identify the impostor.
 
-## 🚀 Features
+##  Features
 - AI agents powered by Phi LLM
 - Multi-agent reasoning and communication
 - Impostor detection logic
 
-## 🧠 How it works
+## My Contribution
+Worked on integrating AI agents into the game
+Helped design agent decision-making logic
+Contributed to communication and reasoning system
+Assisted in overall project development
+
+## How it works
 - Agents observe game state
 - Use LLM reasoning to decide actions
 - Communicate and vote to find impostor
 
 ---
 
-## 🎮 Base Game
+## Base Game
 This project builds on an Among Us clone implemented in Python with multiplayer support.
 # Among Us (clone)
 An unofficial clone of the popular multiplayer game 'Among Us', recreated in Python using various supported libraries. Support for upto 5 (or more?) players via LAN. Assets ripped from the from the game.
